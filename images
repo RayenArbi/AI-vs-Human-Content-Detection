@@ -1,1 +1,4 @@
+git add images/
+git commit -m "Added visualization images"
+git push origin main
 
